@@ -6,7 +6,7 @@
 
 
 
-> - ### `Follow this [link](https://webdashboard-65589.web.app/) to visit the website.`
+> - Follow this [link](https://webdashboard-65589.web.app/) to visit the website.
 
 
 A few official resources to get started Flutter beginners:
